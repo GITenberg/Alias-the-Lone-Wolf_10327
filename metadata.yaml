@@ -1,5 +1,8 @@
 _repo: Alias-the-Lone-Wolf_10327
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vance, Louis Joseph
@@ -26,6 +29,8 @@ description: On the brink of retirement, the Lone Wolf risks everything for love
   he rescues a beautiful woman and her traveling party from highway bandits. Then
   the real danger begins. This ebook features a new introduction by Otto Penzler and
   has been professionally proofread to ensure accuracy and readability on all devices.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10327#Alias-the-Lone-Wolf
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
